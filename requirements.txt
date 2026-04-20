@@ -1,8 +1,2 @@
 streamlit
 openai
-PyPDF2
-pillow
-chromadb
-sentence-transformers
-torch
-torchvision
